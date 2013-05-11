@@ -1,0 +1,29 @@
+{
+  "name": "brisk-twitter",
+  "version": "0.0.1",
+  "description": "Simple REST controller for the Twitter API",
+  "author": "makesites",
+  "contributors": [
+    { "name": "Makis Tracend", "email": "makis@makesit.es" }
+  ],
+  "homepage": "http://makesites.org/brisk#modules", 
+  "keywords": ["twitter", "node", "data", "api", "public", "rest", "crud"],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/brisk-modules/twitter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/brisk-modules/twitter/issues"
+  }, 
+  "licenses": [
+    {
+      "type": "MIT license",
+      "url": "http://makesites.org/licenses/MIT"
+    }
+  ], 
+  "engines": { "node": ">=0.8.x" }, 
+  "main": "index",
+  "dependencies": {
+    "brisk": "x"
+  }
+}
