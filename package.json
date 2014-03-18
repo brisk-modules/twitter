@@ -1,6 +1,6 @@
 {
   "name": "brisk-twitter",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Simple REST controller for the Twitter API",
   "author": "makesites",
   "contributors": [
@@ -24,7 +24,7 @@
   "engines": { "node": ">=0.8.x" }, 
   "main": "index",
   "dependencies": {
-    "brisk": "*",
-    "oauth": "*"
+    "brisk": "0.x",
+    "oauth": "0.9.11"
   }
 }
